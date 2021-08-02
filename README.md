@@ -15,5 +15,6 @@
   <div> 
   <a href="https://www.linkedin.com/in/gilmar-manoel-de-mendon%C3%A7a-junior-1410b3118/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- 
+![Snake animation](https://github.com/GilmarMMJr/GilmarMMJr/blob/output/github-contribution-grid-snake.svg)
+   
 </div>
